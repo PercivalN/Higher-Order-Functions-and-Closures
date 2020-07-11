@@ -4,5 +4,6 @@
         <page name='Sorted'/>
         <page name='Map'/>
         <page name='Filter'/>
+        <page name='Reduce'/>
     </pages>
 </playground>
